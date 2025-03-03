@@ -1,0 +1,52 @@
+
+body {
+    background-color: #f8f9fa;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+
+  .navbar-custom {
+    background-color: #343a40;
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link {
+    color: #ffffff;
+  }
+  
+
+  h1, h2 {
+    color: #343a40;
+    margin-bottom: 20px;
+  }
+  
+
+  .card-leyenda {
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+  }
+  
+
+  .btn-custom {
+    border-radius: 4px;
+  }
+  
+
+  .modal-content {
+    border-radius: 8px;
+  }
+  
+  .modal-header, .modal-footer {
+    background-color: #f1f1f1;
+  }
+  
